@@ -1,0 +1,33 @@
+html, body, h1, h2, h3, h4, ul, ol, li, p, a {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    text-align: center;
+  }
+.nav li {
+    display: inline;
+    color: #ffffff; 
+    padding: 0 20px 0 20px;   
+}
+ul {
+    background-color: #202020;
+    height: 30px;
+padding-top: 15px;
+}
+.main-content {
+    background-color: #202020;
+    background-image: url(Images/Utah\ Night\ Sky.png);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+color: #ffffff;
+height: 700px;
+
+}
+h1 {
+    padding: 80px 0 10px 0;
+    height: 70px;
+    font-size: 60px;
+}
